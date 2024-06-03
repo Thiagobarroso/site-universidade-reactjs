@@ -16,10 +16,16 @@
     background: #212EA0;
 }
 
+
 .back-btn{
     right: auto;
     left: 0;
 }
+
+.next-btn {
+    margin-right: -50px;
+}
+
 
 .slider{
     overflow: hidden;
@@ -27,7 +33,7 @@
 
 .slider ul{
     display: flex;
-    width: 200%;
+    width: 250%;
     overflow-x: hidden;
     transition: 0.5s;
 }
@@ -46,4 +52,22 @@
     line-height: 1.4;
 }
 
+.slide img{
+    width: 65px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 4px solid #212EA0;
+}
+
+
+.user-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.user-info h3 {
+    color: #212EA0;
+}
 
