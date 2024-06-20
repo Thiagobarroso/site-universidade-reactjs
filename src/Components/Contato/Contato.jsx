@@ -12,6 +12,8 @@ function Contato() {
           ipsum praesentium suscipit dignissimos quas molestiae veniam nobis
           necessitatibus. Fuga, dolore!
         </p>
+      </div>
+      <div className="contato-tel">
         <ul>
           <li>thiagoo.silva@live.live</li>
           <li>+55 21 96615-4418</li>
@@ -21,7 +23,6 @@ function Contato() {
           </li>
         </ul>
       </div>
-      <div className="contato-col"></div>
     </div>
   );
 }

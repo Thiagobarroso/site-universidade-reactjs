@@ -1,9 +1,12 @@
 .contato {
     margin: 80px auto;
     max-width: 90%;
+    padding: 20px;
     display: flex;
     align-content: center;
     justify-content: space-between;
+    display: flex;
+
 }
 
 .contato-col{
@@ -15,5 +18,12 @@
     color: #000f38;
     font-weight: 500;
     font-size: 25px;
-    
+    margin-bottom: 10px;
+}
+
+
+.contato-tel ul {
+    list-style: none;
+    color: #676767;
+
 }
