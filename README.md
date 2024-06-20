@@ -1,8 +1,9 @@
-# React + Vite
+# Projeto Front-end de Site Universitário com React.js e Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório é um site front-end desenvolvido utilizando React.js e Vite, destinado a uma universidade fictícia. O projeto visa fornecer informações sobre cursos, notícias e eventos da instituição de forma interativa e responsiva.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias Utilizadas:
+Javascript
+CSS
+React.js: Biblioteca JavaScript para construção de interfaces de usuário.
+Vite: Build tool rápida para aplicações web modernas.
